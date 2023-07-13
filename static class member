@@ -1,0 +1,11 @@
+public static void main(String args[ ])
+{
+StaticDemo x = new StaticDemo( );
+StaticDemo y = new StaticDemo( );
+x.set(1, 1);
+x.show( );
+y.set(2, 2);
+y.show( );
+x.show( );
+}
+}
